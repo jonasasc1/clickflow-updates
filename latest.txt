@@ -1,6 +1,6 @@
 # ClickFlow Update-Info – wird von der App beim Start gelesen
-version=2.6.2
+version=2.7.0
 url=https://raw.githubusercontent.com/jonasasc1/clickflow-updates/main/ClickFlow-Setup.exe
-sha256=400eaf270d5b531846ebff48766e6e55121046d8f9872bd359eb1ec121b64a52
-size=423400
-notes=Update-Funktion endgültig repariert.
+sha256=d2cb1afcd8f4e2d6c30ddf8771a72127a5436498302837c9b2445680c929921a
+size=427682
+notes=Neu: Abläufe pausieren automatisch, wenn das gewählte Programm nicht vorne ist. Abläufe aufnehmen statt Schritt für Schritt anlegen. Abläufe exportieren und importieren (Datei …). Log nur noch bei Bedarf (Extras → Diagnose-Log). Updates sind jetzt signiert.
