@@ -1,0 +1,6 @@
+# ClickFlow Update-Info – wird von der App beim Start gelesen
+version=2.5.0
+url=https://raw.githubusercontent.com/jonasasc1/clickflow-updates/main/ClickFlow-Setup.exe
+sha256=f8c0d0e1845535c2b52b7c4c9118e88ceb5460db87acae5f55f188cc1c2f4222
+size=422027
+notes=Erste Version mit Installer und automatischen Updates.
